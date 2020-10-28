@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... Hello World
 - ⚡ Fun fact: ...
-- ˚˚ Resume Link <a href="https://drive.google.com/file/d/1hVUzmS5x8kcdduQs-GhCz_dwDfn6ZUyz/view?usp=sharing" />  
+- ˚˚ Resume Link <a href="https://drive.google.com/file/d/1hVUzmS5x8kcdduQs-GhCz_dwDfn6ZUyz/view?usp=sharing/" />  
 -->
