@@ -1,4 +1,6 @@
-### Hi there 👋
+### Abir Kumar (Lancer Abir) 👋
+
+![banner](https://i.ibb.co/X4yp96m/MERN-Stack-Development-and-Consulting-Services.jpg)
 
 Here are some ideas to get you started:
 
